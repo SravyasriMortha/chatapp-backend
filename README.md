@@ -1,0 +1,9 @@
+# chatapp-backend
+
+ NAME: SRAVYASRI MORTHA
+ UNIVERSITY: INDIAN INSTITUTE OF TECHNOLOGY PATNA
+ BRANCH: COMPUTER SCIENCE AND ENGINEERING
+
+SEND MAIL NOTIFICATIONS TO yasuhironose@imbesideyou.world,
+yuyaito@imbesideyou.world
+
